@@ -2,4 +2,5 @@
 learning github
 
 First commit.
-Second commat.
+
+Second commit.
